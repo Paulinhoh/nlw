@@ -7,3 +7,9 @@ Projeto python feito através do evento da Rocketseat Next Level Week, no qual f
   - Flask
   - Barcode
   - pytest
+ 
+## Instalação
+```bash
+  git clone https://github.com/Paulinhoh/nlw.git
+  pip install -r requirements.txt -t .\libs
+```
