@@ -13,6 +13,3 @@ Projeto python feito através do evento da Rocketseat Next Level Week, no qual f
   git clone https://github.com/Paulinhoh/nlw.git
   pip install -r requirements.txt -t .\libs
 ```
-
-## Imagens:
-![Product_Code](code.png)
