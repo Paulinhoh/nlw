@@ -1,14 +1,14 @@
 # nlw
+Python project made through the Rocketseat Next Level Week event, in which a creation project was developed
+barcode for products. Selling everything from route creation, validations to unit tests using pytest
 
-Projeto python feito através do evento da Rocketseat Next Level Week, no qual foi desenvolvido um projeto de criação <br>código de barras para produtos. Vendo desde criação de routas, validações até testes unitarios utilizando o pytest
-
-## Tecnologias:
+## Technologies:
 - Python
   - Flask
   - Barcode
   - pytest
  
-## Instalação
+## Installation:
 ```bash
   git clone https://github.com/Paulinhoh/nlw.git
   pip install -r requirements.txt -t .\libs
